@@ -4,6 +4,6 @@ Neste programa eu fiz uma simulação de pássaros voando, conhecida como "Flock
 
 Aprendi com o site https://thecodingtrain.com/, onde ensina a fazer isso de uma forma bem interessante.
 
-Ainda pretendo melhorar muito este programa, invlusive irrei usar Three JS para deixar-lo mais interessante.
+Ainda pretendo melhorar muito este programa, inclusive irrei usar Three JS para deixar-lo mais interessante.
 
 Aqui está o artigo completo do criador: https://www.red3d.com/cwr/boids/
